@@ -45,5 +45,4 @@ export class LoginPage {
     async verifyLoginFailure_Locked() {
         await expect(this.errorMessage).toHaveText('Epic sadface: Sorry, this user has been locked out.');
     }
-    
 }

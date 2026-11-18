@@ -21,5 +21,4 @@ test.describe('SauceDemo Login', () => {
         await loginPage.emptyFields();
         await loginPage.verifyLoginFailure_EmptyValues();
     });
-
 });

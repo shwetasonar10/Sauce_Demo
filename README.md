@@ -37,7 +37,7 @@ saucedemo-playwright
 │   └── checkout.page.ts
 │
 ├── tests/
-│   └── saucedemo.spec.ts
+│   └── login.spec.ts
 │
 ├── playwright.config.ts
 ├── package.json
